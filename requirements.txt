@@ -1,0 +1,15 @@
+# LangChain Core and Framework
+langchain>=1.4.0
+langchain-core>=1.6.0
+langchain-community>=0.4.0
+langchain-text-splitters>=1.1.0
+
+# Embedding Providers
+langchain-google-genai>=4.4.0
+langchain-openai>=1.6.0
+
+# Vector Store
+langchain-chroma>=1.1.0
+
+# Environment support
+python-dotenv>=1.0.0
